@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Dimm4hEINYTEmKLP1OfmgiDliGfh82vTIG130z640cQ=",
+  "Source": "DemoCRUDwithDapperUsingSqlite",
+  "BasePath": "_content/DemoCRUDwithDapperUsingSqlite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
