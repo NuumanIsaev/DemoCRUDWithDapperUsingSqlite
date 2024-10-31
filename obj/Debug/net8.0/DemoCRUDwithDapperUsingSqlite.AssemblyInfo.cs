@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoCRUDwithDapperUsingSqlite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7498499d2783709dc409c695fdbdf95225d15e1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoCRUDwithDapperUsingSqlite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoCRUDwithDapperUsingSqlite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
